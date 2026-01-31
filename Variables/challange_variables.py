@@ -26,7 +26,7 @@ print(f"{famous_person} once said, {message}")
 print("4 ---")
 
 
-# 2-7 Stripping Names:
+# 2-7 Stripping Names (REMOVE SPACES IN THE STRING):
 hes_name = ' flamy '
 print(hes_name) # whitespaces are displayed.
 print(hes_name.lstrip())
