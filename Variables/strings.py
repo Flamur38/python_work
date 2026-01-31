@@ -31,10 +31,10 @@ print(message)
 
 print('3 ===')
 
-# Pythons whitespace tabs
+# TABS 
 print("\tPython")
 
-# New Line
+# NEW LINE
 print("Languages:\nPython\nJavaScript")
 
 # Combine new Lines and Tabs:
@@ -49,7 +49,7 @@ print(favorite_language.rstrip())
 
 print('4 ===')
 
-# Removing Prefixes
+# REMOVING PREFIXES 
 url = 'https://google.com'
 print(url.removeprefix('https://'))
 
